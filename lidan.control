@@ -1,0 +1,5 @@
+# lidan extension
+comment = 'lidan datatype'
+default_version = '0.0.1'
+relocatable = true
+module_pathname = '$libdir/lidan'
