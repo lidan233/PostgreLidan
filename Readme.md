@@ -1,7 +1,11 @@
 # 李源
 
 # Create an extension for PostgreSQL
+
+# 结果如下
 <img src="images/高级数据库_李源_120210970.png" width=500px />
+
+
 # 目录
 
 为什么要为数据库创建扩展？
