@@ -1,7 +1,7 @@
 # Create an extension for PostgreSQL
 
 # The result is as follows
-<img src="images/advanced database_Li Yuan_120210970.png" width=500px />
+<img src="images/高级数据库_李源_120210970.png" width=500px />
 
 
 # Table of contents
